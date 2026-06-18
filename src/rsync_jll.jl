@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("rsync")
-JLLWrappers.@generate_main_file("rsync", UUID("191d6b87-264a-55f5-a0e2-c8fbce9a1ce0"))
+JLLWrappers.@generate_main_file("rsync", Base.UUID("191d6b87-264a-55f5-a0e2-c8fbce9a1ce0"))
 end  # module rsync_jll

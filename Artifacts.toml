@@ -1,144 +1,144 @@
 [[rsync]]
 arch = "aarch64"
-git-tree-sha1 = "3c804d7b93b4b35369d41450d5ca0363a4b996cb"
+git-tree-sha1 = "8afe0e46d5d59b354bd1ab0ec9caac6fe5c09f8c"
 os = "macos"
 
     [[rsync.download]]
-    sha256 = "c98febb80dbff384a86c4cc9d6212ca27c4575bb521afde8afb118db01341cbe"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "dfc78c35d9ad01facd2677b2c92a8419fdc5aec154b723d288a4891841572d73"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.aarch64-apple-darwin.tar.gz"
 [[rsync]]
 arch = "aarch64"
-git-tree-sha1 = "0ec2cd8da0e64057f73c88cda6d0bd45ab08ccb6"
+git-tree-sha1 = "26d76fc30bba04cb32dc3934c6bb7ef7b58f1343"
 libc = "glibc"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "28618846fbc66d99bc38f6675d56d54bfc6899e723caf7732da3818be554faa9"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "97a3b0e2a458cd8f7a42f7df5f929b230e486d6d1e11e9c2c8bd531f078f34f7"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.aarch64-linux-gnu.tar.gz"
 [[rsync]]
 arch = "aarch64"
-git-tree-sha1 = "d8b86c7f0b63a10bb8e7f33901f264160c43d7c9"
+git-tree-sha1 = "a9b08d405c752fcd563b2af0aeebe377cb7f1ca0"
 libc = "musl"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "11634f036b24c3c1ed0c12c0ffd1478ccf066f7c2edce695ecebb90304fbcf69"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.aarch64-linux-musl.tar.gz"
+    sha256 = "fe647ad7cff4720f1c0258aa695adec3917bdc503ec7358574b58a6370151937"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.aarch64-linux-musl.tar.gz"
 [[rsync]]
 arch = "aarch64"
-git-tree-sha1 = "8521636617bb8675bc0906840941064139ee18e8"
+git-tree-sha1 = "46cc0720c7734d2fc2c6ff164f3a347a2cc323f4"
 os = "freebsd"
 
     [[rsync.download]]
-    sha256 = "0f66af87043d2bb120384ef832cd835fe3205096f23fd3c001aefde1dc4333f2"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "ef92ddcd20c5cfcde280dfaa364363270eb5241a1d777aca572d9bff6282fcee"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.aarch64-unknown-freebsd.tar.gz"
 [[rsync]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "580b934b7ba23ae91e921b070980a2fcdb3e3f06"
+git-tree-sha1 = "dd466248c6276ec08ecc4ae2f8e6cea35b067f34"
 libc = "glibc"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "7e0a1754e5901a504b0b1c0ca8558f7704070146f7d2d9a392de4ff79f7bc930"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "818dbb5b8a85a1727489aa227023d75b777a5aeb39772976aecbe0f90645c010"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.armv6l-linux-gnueabihf.tar.gz"
 [[rsync]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "cb2cceeb656c833364e2fe605fa5a7cb850f6a5a"
+git-tree-sha1 = "aef67c3af34eedeef110a87183dc8dac3433458b"
 libc = "musl"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "77a5ef1429948f0305b502c7f25b2efcc22732347e9b0098d43e975ef9a3445a"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "0cd074ba89f0cda90d29c4e2ee102b79250dec30ea32a5839df50b4708d9b905"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.armv6l-linux-musleabihf.tar.gz"
 [[rsync]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "19b0c0f0fdc615d0eab2de6531b3e5d1e5f3ca14"
+git-tree-sha1 = "2902faed0e8df0f272ffc3de1a33a8cfc8b8731e"
 libc = "glibc"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "1af2787cf36de5d5f58d7069675648432506f8dfb9c6eb277c0fb974c34fc8c0"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "7998ca77f84cf521ba3a8fc3993c138c3413f84a699af411e83bdc01189c87ca"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.armv7l-linux-gnueabihf.tar.gz"
 [[rsync]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a1ded68f151c8142379c30c11220d237da951df3"
+git-tree-sha1 = "c4c50d858d59f71c0d7aae0f49c3e7d06456587d"
 libc = "musl"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "6f7ebf783aacd250fed86f9321e486abdb27f2f32dd401e00b278e416c602dc8"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "64344fe4573c2d73fd6374dd6d259458c23367d3b76d18a4e8d710ba413d02db"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.armv7l-linux-musleabihf.tar.gz"
 [[rsync]]
 arch = "i686"
-git-tree-sha1 = "cf7fb7f0c9020a1c373b9e1743fd339f2bb0ca40"
+git-tree-sha1 = "3990cb0aeff132d2d09e843f5d899cb10fc2e51f"
 libc = "glibc"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "4283ed37b73a552d26179b7ddafcef098fb9d5fb42985b7471b41a77dd9ca86e"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.i686-linux-gnu.tar.gz"
+    sha256 = "cd01f6a54338d9c4fcb98b2b413f58d064f1327df6e5180857a77639f892ab76"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.i686-linux-gnu.tar.gz"
 [[rsync]]
 arch = "i686"
-git-tree-sha1 = "a43b831b7cbd360310407853d4564cc7233ed57d"
+git-tree-sha1 = "4d9621a8ec435cdf3194be96f7d081934e151311"
 libc = "musl"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "d353d75055918ab78702410d4514d2c08b70b57ef0ccdf982d441df299acb73a"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.i686-linux-musl.tar.gz"
+    sha256 = "6246541a38ed2b5e27fd4ca40b26e15409948bc2b137caeb3f96da85dbc69b21"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.i686-linux-musl.tar.gz"
 [[rsync]]
 arch = "powerpc64le"
-git-tree-sha1 = "e916934055c8843feedf11b1d0c5eb7ef96c0f7c"
+git-tree-sha1 = "79aebc9f5fc4cefede4b1aa7b0590fae9c211ef7"
 libc = "glibc"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "f98cb6f3db0885fe564233f5b8062cc5b07699066263dbc9957251648f89b517"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "d503d57b34475b16c2253e03c2a285c1b8302ec136766b617828a959dba78144"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.powerpc64le-linux-gnu.tar.gz"
 [[rsync]]
 arch = "riscv64"
-git-tree-sha1 = "eb9f988b2a2cb079f21c78d6793f4970f1f1b2a7"
+git-tree-sha1 = "80c4fbdcbf72113e33b47ae269100d79571a2109"
 libc = "glibc"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "a70765f88c40f8216bf98f1853641c558172d9488e74320d87d42937847700cd"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "6149b920d56e2b8b6de6b7082a7b9340f1f1154efac58a671ae0c0dbbbf5c80a"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.riscv64-linux-gnu.tar.gz"
 [[rsync]]
 arch = "x86_64"
-git-tree-sha1 = "1488e39f5fb0ac348912af212abc9d40a406441a"
+git-tree-sha1 = "a160082f85cd573b4303e1d6d37d3554b85152dd"
 os = "macos"
 
     [[rsync.download]]
-    sha256 = "b3807e0fd1dcc8d214bfcd395a36e2c98257720243c11531aa2b3033977246fb"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "d35c0ff1c7f044e74553ccdb0ce197d43d58c60a82c67ed28b8091251370ea1c"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.x86_64-apple-darwin.tar.gz"
 [[rsync]]
 arch = "x86_64"
-git-tree-sha1 = "8f87a56d3454b4c02bc05acabac9bc8eb6649c14"
+git-tree-sha1 = "88daf6c812407542e76f99fd74304e7d1055934c"
 libc = "glibc"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "0b6047e6c198b3ffe3890660a4f59b5c2d687aa5a075617b6d3ebdc333607fc2"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "4607f54a17d5d004d168c16ed126a3fdfc8e636fb40db7602064ce7fc7f90e4e"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.x86_64-linux-gnu.tar.gz"
 [[rsync]]
 arch = "x86_64"
-git-tree-sha1 = "7381ca3552720c1451d2529ce1497e86aaba9526"
+git-tree-sha1 = "44d738d663c34d118046ff6037e6aa0858274e15"
 libc = "musl"
 os = "linux"
 
     [[rsync.download]]
-    sha256 = "bd7299ddab29e1be90fd19896e63ea5bc8924277fe54e388febf480d3ae86f1a"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.x86_64-linux-musl.tar.gz"
+    sha256 = "53960102a6eeff19d1b5ae0397ddb409dc76b3d4d5641b58c6034359aedde5c0"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.x86_64-linux-musl.tar.gz"
 [[rsync]]
 arch = "x86_64"
-git-tree-sha1 = "252b6a14dcf26293eed7cf8a475c04323298ae1a"
+git-tree-sha1 = "44878f54068d0f5c9395354da961575dabf794fe"
 os = "freebsd"
 
     [[rsync.download]]
-    sha256 = "cdb706732d97a88620427f6d2aa6bf9b6e3d1fbca5112c3b96b58b87e9c8e632"
-    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.1+0/rsync.v3.4.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "866b502052e17da0c731b35ceab514b119ba1ab784fab04b75813758620de246"
+    url = "https://github.com/JuliaBinaryWrappers/rsync_jll.jl/releases/download/rsync-v3.4.4+0/rsync.v3.4.4.x86_64-unknown-freebsd.tar.gz"
