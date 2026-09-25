@@ -7,10 +7,11 @@ using Popt_jll
 using Zlib_jll
 using Zstd_jll
 using xxHash_jll
+using libidn2_jll
 JLLWrappers.@generate_wrapper_header("rsync")
 JLLWrappers.@declare_executable_product(rsync)
 function __init__()
-    JLLWrappers.@generate_init_header(Lz4_jll, OpenSSL_jll, Popt_jll, Zlib_jll, Zstd_jll, xxHash_jll)
+    JLLWrappers.@generate_init_header(Lz4_jll, OpenSSL_jll, Popt_jll, Zlib_jll, Zstd_jll, xxHash_jll, libidn2_jll)
     JLLWrappers.@init_executable_product(
         rsync,
         "bin/rsync",
